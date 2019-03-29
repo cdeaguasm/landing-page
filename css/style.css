@@ -1,0 +1,34 @@
+body {
+    padding-top: 56px;
+}
+
+.jumbotron {
+    background: url("/img/section-header.jpg") no-repeat center;
+}
+
+.btn-primary {
+    background-color:#2fd8a8;
+    border-color: #36bc96;
+}
+
+.btn-primary:hover {
+    background-color:white;
+    color: #2fd8a8;
+    border-color: #36bc96;
+}
+
+.btn-secondary {
+    background-color: transparent;
+    color: #2fd8a8;
+    border-color: #36bc96;
+}
+
+.btn-secondary:hover {
+    background-color: #2fd8a8;
+    color: white;
+    border-color: #36bc96;
+}
+
+#contact {
+    background: url("/img/contact.jpg") no-repeat center;
+}
